@@ -1,0 +1,10 @@
+o simple
+diffuse = crate.jpg
+specularIntensity = 1.0
+specularPower = 1.0
+reflectAmt = 0.0
+reflectColor 1.0 1.0 1.0
+refractAmt = 1.0
+refractColor 0.4 0.55 0.23
+
+
