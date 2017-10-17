@@ -1,8 +1,8 @@
 # OpenGLRenderingEngine
-3D real time rendering engine in python 
 ![ScreenShot](/res/sample.png)
+3D real time rendering engine in python 
 
 # Build Instructions
 
-Just run setup.py to install all dependencies<br/>
+Just run setup.sh to install all dependencies<br/>
 
